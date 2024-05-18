@@ -2,7 +2,7 @@
 
 Для решения поставленной задачи была создана модель на основе предобученной сети **Efficientnet**.
 
-(Веса модели](https://drive.google.com/file/d/1-E23l73WZI3CnfJrT2En-uHr2xwUk-JU/view?usp=drive_link)
+**Веса модели** https://drive.google.com/file/d/1-E23l73WZI3CnfJrT2En-uHr2xwUk-JU/view?usp=drive_link
 
 Удалось добиться **91%** точности на валидационной выборке.
 
